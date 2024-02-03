@@ -12,3 +12,4 @@
 <img src="https://github.com/sergiopro48/Projeto-We-Care/blob/main/assets/Desktop.png?raw=true/"> 
 <img src="https://github.com/sergiopro48/Projeto-We-Care/blob/main/assets/celularr.png?raw=true/">
 <img src="https://github.com/sergiopro48/We-Care-Responsivo-/blob/main/assets/github%20WE%20CARE.png?raw=true/">
+<img src="https://github.com/sergiopro48/We-Care-Responsivo-/blob/main/assets/git%20We%20Care.png?raw=true/">
