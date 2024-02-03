@@ -10,5 +10,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt=css-logo  width="80px" />
 <h3>Desktop e Celular.</h3>
 <img src="https://github.com/sergiopro48/We-Care-Responsivo-/blob/main/assets/Git%20DeskTop.png?raw=true/">
-<img src="https://github.com/sergiopro48/We-Care-Responsivo-/blob/main/assets/github%20WE%20CARE.png?raw=true/">
+<img src="https://github.com/sergiopro48/We-Care-Responsivo-/blob/main/assets/github%20WE%20CARE.png?raw=true/"
 
